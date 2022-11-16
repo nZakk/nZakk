@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nZakk
+- 👀 I’m interested in T.I. and programming
+- 🌱 I’m currently learning JavaScript 
+- 📫 How to reach me : linkedIn https://www.linkedin.com/in/isaac-gonçalves-santos-410172257/
