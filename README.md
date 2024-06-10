@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nZakk
-- 👀 I’m interested in T.I. and programming
-- 🌱 I’m currently learning JavaScript 
+- 👋 Hi, I’m Isaac
+-  I’m interested in T.I. and want to become a Software Engineer
+-  I’m currently learning JavaScript, NodeJs and Java
 - 📫 How to reach me : linkedIn https://www.linkedin.com/in/isaac-gonçalves-santos-410172257/
